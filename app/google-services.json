@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1090386838864",
+    "firebase_url": "https://easyaudio-6496f-default-rtdb.firebaseio.com",
+    "project_id": "easyaudio-6496f",
+    "storage_bucket": "easyaudio-6496f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090386838864:android:364bd1394b517cd0595855",
+        "android_client_info": {
+          "package_name": "com.example.easyaudio2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVBbKdVNKDxktOfjK1lkOARtZd-BmLclE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
